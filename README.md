@@ -1,0 +1,47 @@
+# Robot Jet Action
+
+An arcade like game for Commodore 64 developed by Carrion / BONZAI / C64portal.pl
+Main code was developed using Kick C, a C language variant dedicated for C64 and other 8bit computers.
+
+
+# Compiling and building
+
+To clean all src and generated data files:
+
+./clean.sh
+
+To build all (generate all data and compile main.c) use commands below. You have to use them in this order. Data goes first and main goes second.
+
+./make.sh data
+./make.sh main
+
+
+# Copyrights and Licensing 
+
+Author of this game sourcecode and gfx assets is Tomasz 'Carrion' Mielnik.
+Author of the music and sound f/x is Kamil 'Jammer' Wolnikowski.
+
+This source code and graphics assets are copyrighted to Tomasz 'Carrion' Mielnik
+Music and Sfx files are copyrighted to Kamil 'Jammer' Wolnikowski.
+The source code and assets are distributed only for educational purposes. No commercial use is allowed.
+
+## Licensing details:
+This release is using Creative Commons licensing.
+Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
+Summary can be found here:
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+Details can be found here:
+https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+
+
+# 3rd party tools
+
+I've included ByteBoozer2 (BB2) by HCL/Booze Design in this sourcecode distribution for the convenience of building the final executable file. The included version of bb2 is a binary compiled for Inter Mac OS.
+All copyrights of BB2 goes to aythor of this great tool.
+
+The tool can be found here:
+https://csdb.dk/release/?id=145031
+
+

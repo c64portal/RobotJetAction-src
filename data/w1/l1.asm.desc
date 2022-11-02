@@ -1,0 +1,22 @@
+
+
+
+
+.pc = $47d0
+
+#import "constants.asm"
+
+  .byte 75,210    // player X,Y
+  .byte 10       // keys
+  .byte 9,172 ,120, e_lin0,0,1, e_lin1,-1,1 
+  .byte 3,35  ,90,  e_sin1,1,1, e_lin1,0,1 
+  .byte 0,155 ,255, e_sin1,0,1, e_lin1,0,1 
+  .byte 0,255 ,255, e_sin1,0,1, e_lin1,0,1 
+  .byte 0
+  .byte 70,210
+
+  .byte $7,$ff,$ff,$ff,$ff,$ff
+
+  #import "l1.asm.s"
+
+ 
