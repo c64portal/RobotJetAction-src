@@ -1,6 +1,6 @@
 # Robot Jet Action
 
-An arcade like game for Commodore 64 developed by Carrion / BONZAI / C64portal.pl
+An arcade like game for Commodore 64 developed by Carrion / C64portal.pl
 Main code was developed using Kick C, a C language variant dedicated for C64 and other 8bit computers.
 
 
