@@ -36,12 +36,4 @@ Details can be found here:
 https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
 
-# 3rd party tools
-
-I've included ByteBoozer2 (BB2) by HCL/Booze Design in this sourcecode distribution for the convenience of building the final executable file. The included version of bb2 is a binary compiled for Inter Mac OS.
-All copyrights of BB2 goes to aythor of this great tool.
-
-The tool can be found here:
-https://csdb.dk/release/?id=145031
-
 
